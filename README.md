@@ -4,6 +4,7 @@ Simple LED-Timer application paired with Blynk IOT.
 
 ## Description
 
+<img src="static/led-panel.jpeg" width="250">
 ![LED Panel](static/led-panel.jpeg | width=250)
 
 This small application is a arduino implementation of a simple timer.
