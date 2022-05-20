@@ -4,7 +4,7 @@ Simple LED-Timer application paired with Blynk IOT.
 
 ## Description
 
-<img src="static/led-panel.jpeg" width="250">
+<img src="static/led-panel.jpeg" width="350">
 ![LED Panel](static/led-panel.jpeg | width=250)
 
 This small application is a arduino implementation of a simple timer.
@@ -28,8 +28,8 @@ You will need the following hardware:
 
 #### Wiring
 
-![Wiring 1](static/wiring-1.jpeg | width=250)
-![Wiring 2](static/wiring-2.jpeg | width=250)
+<img src="static/wiring-1.jpeg" width="350">
+<img src="static/wiring-2.jpeg" width="350">
 
 ### Software
 
@@ -54,8 +54,7 @@ Blynk.begin(auth, ssid, pass, "ENTER_BLYNK_URL", "ENTER_BLYNK_PORT_AS_INTEGER");
 
 The timer will be controlled over a small Blynk project:
 
-![Blynk App](static/blynk-app.jpeg | width=250)
-
+<img src="static/blynk-app.jpeg" width="350">
 
 ## Contributing
 
